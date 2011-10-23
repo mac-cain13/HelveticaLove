@@ -9,7 +9,7 @@ A nice clean [Taskpaper](http://www.hogbaysoftware.com/products/taskpaper) for M
 
 #Screenshot
 
-![HelviticaLove Theme screenshot](http://dump.wrep.nl/mathijs/Taskpaper-HelviticaLove-theme.png "HelviticaLove Theme")
+![HelviticaLove Theme screenshot](https://github.com/mac-cain13/HelveticaLove/raw/master/screenshot.png "HelviticaLove Theme")
 
 #Installation
 
@@ -21,4 +21,3 @@ A nice clean [Taskpaper](http://www.hogbaysoftware.com/products/taskpaper) for M
 #Related stuff
 - [Taskpaper wiki on HelveticaLove](http://www.hogbaysoftware.com/wiki/HelviticaLove)
 - HelveticaLove spinoff [DarkVetica](https://github.com/marshallmick007/DarkVetica)
-- 
