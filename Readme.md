@@ -14,6 +14,12 @@ A nice clean [Taskpaper](http://www.hogbaysoftware.com/products/taskpaper) for M
 #Installation
 
 - Quit Taskpaper
+- Launch the `TaskpaperThemeInstaller.app`
+- Select the theme you want to install (works with any Taskpaper theme)
+- Start Taskpaper, go to Preferences..., look for "Theme Options" and select "HelveticaLove"
+
+If you don't want to use the installer:
+- Quit Taskpaper
 - Open `~/Library/Application Support/TaskPaper/Themes` in Finder
 - Copy the `HelviticaLove.taskpapertheme` into the folder you just opened
 - Start Taskpaper, go to Preferences..., look for "Theme Options" and select "HelveticaLove"
